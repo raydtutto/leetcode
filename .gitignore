@@ -1,0 +1,6 @@
+# IDEAs
+.idea
+# Misc
+.DS_Store
+
+cmake-build-*
